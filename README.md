@@ -1,0 +1,4 @@
+sciWork
+=======
+
+Scientific workstation install
